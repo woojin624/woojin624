@@ -19,4 +19,6 @@
 
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS&nbsp;Elastic&nbsp;Beanstalk-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS&nbsp;Route&nbsp;53-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS&nbsp;S3-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
